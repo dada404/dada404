@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dada404.
-- 👀 I’m interested in DevOps, Java, Python.
-- 🌱 I’m currently learning Distributed System.
-- 💞️ I’m looking to collaborate on building DevOps tools.
+- 👀 I’m interested in C++, GO, Rust.
+- 🌱 I’m currently learning DataBase & OS.
+- 💞️ I’m looking to collaborate on building DataBase and OS.
 - 📫 How to reach me dada404@foxmail.com
 
 <!---
